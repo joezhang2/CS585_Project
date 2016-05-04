@@ -1,0 +1,968 @@
+<html><head><title>Quarterly Earnings Surprises: Company Earnings Calendar - Yahoo! Finance</title><meta
+xmlns=""
+name=Keywords
+content="Earnings Announcements, Company Earnings, EPS Estimates, Earnings Per Share, Conference Calls, Earnings Call, Reported EPS, Concensus EPS"><meta
+xmlns=""
+name=Description
+content="Compare the reported
+EPS with the consensus EPS estimates and see if there
+are any surprises. Listen to the companies annoucements
+on their quarterly, annual
+earnings."><!-- ========================= BEGIN: GNAV CSS ========================= --><link
+rel=stylesheet
+type=text/css
+href="http://l.yimg.com/bm/combo?fi/common/p/d/static/css/2.0.183814/2.0.0/mini/finance-base.css&fi/common/p/d/static/css/2.0.183814/2.0.0/mini/finance-theme.css&fi/common/p/d/static/css/2.0.183814/2.0.0/mini/yfi_nav_topnav_base.css&fi/common/p/d/static/css/2.0.183814/2.0.0/mini/yfi_nav_topnav_theme.css"/><link
+href=http://l.yimg.com/d/i/us/fi/navbar/css/gnav_biz_200905271652.css
+type=text/css
+rel=stylesheet><!--[if IE]>
+        <link href="http://l.yimg.com/d/i/us/fi/navbar/css/ie6_200701252030.css" type="text/css" rel="stylesheet" media="all"/>
+        <script type="text/javascript" src="http://l.yimg.com/d/i/us/fi/navbar/scripts/pseudohover_200701262100.js"></script>
+        <![endif]-->
+<!-- ========================= END: GNAV CSS ========================= -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><center>
+
+
+ 
+ 
+
+<!-- SpaceID=0 robot -->
+<style type="text/css"><!--
+@import url("http://us.js1.yimg.com/us.yimg.com/lib/hdr/ygma.css");
+body{margin:0px 4px;}
+--></style><div align=center id=ygma><form style="margin:0" 
+action="http://srd.yahoo.com/loc=head&st=yahoo/*http://search.yahoo.com/search" target=_blank target="_top"><input type=hidden name="fr" value="ush1-finance"><table width=100% cellpadding=2 cellspacing=0 border=0><tr bgcolor="#efefef"><td id=ygmalinks class=ygmabk width="100%"><font face="arial,helvetica,sans-serif" size="-2"><a href="http://www.yahoo.com" target="_top"><font color=000000>Yahoo!</font></a> &nbsp; <a href="http://my.yahoo.com" target="_top"><font color=000000>My Yahoo!</font></a> &nbsp; <a href="http://mail.yahoo.com" target="_top"><font color=000000>Mail</font></a></font></td><td id=ygmasearch class=ygmabk colspan=4 align=right nowrap><img src=http://us.i1.yimg.com/us.yimg.com/i/us/hdr/cn/stw3.gif width=65 height=7 border=0 hspace=4 alt="Search the web"><font face="verdana,geneva,sans-serif" size="-2"> 
+<input type=text name=p size=12 title="Enter search terms here" maxlength=100> 
+<input class=ygbt type=submit value=Search title=Search></font></td>
+</tr></table><table width=100% cellpadding=2 cellspacing=0 border=0>
+<tr valign=top>
+<td colspan=2><a href="http://finance.yahoo.com"><img id=ygmalogo src=http://l.yimg.com/a/i/brand/purplelogo/uh/us/fin.gif width=246 height=26 border=0 alt="Yahoo! Finance"></a></td>
+<td id=ygmagreet width="70%"><font face="verdana,geneva,sans-serif" size="-2">Welcome, Guest 
+<br>[<a href="http://login.yahoo.com/config/login?logout=1&.done=http://finance.yahoo.com&.src=quote" target="_top">Sign Out</a>, 
+<a href="http://edit.yahoo.com/config/eval_profile?.done=http://finance.yahoo.com&.src=quote" target="_top">My Account</a>]<br></font></td><td id=ygmaproplinks nowrap>
+<font face="verdana,geneva,sans-serif" size="-2"><a href="http://finance.yahoo.com" target="_top">Finance Home</a> - <a href="http://help.yahoo.com/us/fin/" target="_top">Help</a></font></td>
+<td width=170 align=right>
+<a href="http://www.earnings.com/highlight.asp?client=cb"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/fi/gr/thomson_blu96-28_1.gif" alt="Thomsonfn.com" border=0></a>
+</td></tr></table></form></div>
+<p><!-- SpaceID=0 robot -->
+<table><tr align=center><td><!-- SpaceID=0 robot -->
+</td></tr></table><p></center>
+<!-- Begin comScore Tag -->
+
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({
+        c1: "2",
+        c2: "7241469",
+        c5: "42876959",
+        c7: "http://biz.yahoo.com/z/20070723.html"
+      });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://s.yimg.com/lq" : "http://l.yimg.com/d") + "/lib/3pm/cs_0.2.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=7241469&c4=http%3A%2F%2Fbiz.yahoo.com%2Fz%2F20070723.html&c5=42876959&cv=2.0&cj=1" />
+    </noscript>
+
+<!-- End comScore Tag -->
+<!-- ========================= BEGIN: GNAV CONTENTS ========================= --><div
+id=yfi_nav_header><div
+id=y-nav-pri><!-- skip nav >
+                                <a href="#y-nav-sec" id="skip_nav">Skip navigation</a>
+                            nav -->
+<ul
+id=y-main-nav><li
+class=top><a
+href=http://finance.yahoo.com><span>Home</span></a>
+</li><li
+class="top subnav"><a
+href="http://finance.yahoo.com/marketupdate?u"><span>Investing</span></a><ul><li><a
+href="http://finance.yahoo.com/marketupdate/overview?u">Market
+Overview</a>
+</li><li><a
+href="http://finance.yahoo.com/actives?e=us">Market
+Stats</a>
+</li><li><a
+href=http://biz.yahoo.com/r>Stocks</a>
+</li><li><a
+href=http://finance.yahoo.com/funds>Mutual Funds</a>
+</li><li><a
+href=http://finance.yahoo.com/etf>ETFs</a>
+</li><li><a
+href=http://finance.yahoo.com/bonds>Bonds</a>
+</li><li><a
+href=http://biz.yahoo.com/opt>Options</a>
+</li><li><a
+href=http://biz.yahoo.com/ic/>Industries</a>
+</li><li><a
+href=http://finance.yahoo.com/currency-investing>Currencies</a>
+</li><li><a
+href=http://finance.yahoo.com/education>Education</a>
+</li><li><a
+href=http://finance.yahoo.com/futures>Commodities</a>
+</li></ul></li><li
+id=y-current
+class="top subnav"><a
+href=http://finance.yahoo.com/news><span>News &amp; Opinion</span></a><ul><li><a
+href=http://finance.yahoo.com/news/category-stocks>Markets</a>
+</li><li><a
+href=http://finance.yahoo.com/news/category-ideas-and-strategies>Investing
+Ideas</a>
+</li><li><a
+href=http://finance.yahoo.com/expert/index>Expert
+Advice</a>
+</li><li><a
+href=http://biz.yahoo.com/special.html>Special
+Editions</a>
+</li><li><a
+href=http://finance.yahoo.com/news/category-earnings>Company
+Finances</a>
+</li><li><a
+href=http://finance.yahoo.com/news/index/>Providers</a>
+</li><li><a
+href=http://finance.yahoo.com/video>Video</a>
+</li></ul></li><li
+class="top subnav"><a
+href=http://finance.yahoo.com/personal-finance><span>Personal
+Finance</span></a><ul><li><a
+href=http://finance.yahoo.com/banking-budgeting>Banking
+&amp; Budgeting</a>
+</li><li><a
+href=http://finance.yahoo.com/career-work>Career
+&amp; Work</a>
+</li><li><a
+href=http://finance.yahoo.com/college-education>College
+&amp; Education</a>
+</li><li><a
+href=http://finance.yahoo.com/family-home>Family
+&amp; Home</a>
+</li><li><a
+href=http://finance.yahoo.com/insurance>Insurance</a>
+</li><li><a
+href=http://finance.yahoo.com/loans>Loans</a>
+</li><li><a
+href=http://finance.yahoo.com/real-estate>Real
+Estate</a>
+</li><li><a
+href=http://finance.yahoo.com/retirement>Retirement</a>
+</li><li><a
+href=http://finance.yahoo.com/taxes>Taxes</a>
+</li><li><a
+href=http://finance.yahoo.com/lifelonginvesting/archive/>Lifelong
+Investing</a>
+</li></ul></li><li
+class="new top subnav-tagged"><a><span
+class=tag><strong>new!</strong></span><span>EXCLUSIVES</span></a><ul><li><a
+href=http://finance.yahoo.com/blogs/breakout/>Breakout</a>
+</li><li><a
+href=http://finance.yahoo.com/blogs/daily-ticker/>The
+Daily Ticker</a>
+</li><li><a
+href=http://finance.yahoo.com/news/provider-daniel-gross>Daniel
+Gross</a>
+</li><li><a
+href="http://us.lrd.yahoo.com/SIG=11dgo5hfu/**http%3A//financiallyfit.yahoo.com/finance/">Financially
+Fit</a>
+</li></ul></li></ul></div></div><div
+id=yfi_pf_quotes_bar><div
+class=bd><form
+id=searchQuotes
+name=quote
+action=http://finance.yahoo.com/q><ul><li><label>Get
+Quotes</label></li><li><input
+class=text
+id=txtQuotes
+name=s
+value=""></li><li><input
+class=button
+id=q
+value=GO
+type=image
+src=http://us.js2.yimg.com/us.js.yimg.com/i/us/fi/pf/images/200701191530/btn-get-quotes.gif></li><li><a
+href=http://finance.yahoo.com/search>Finance
+Search</a></li>
+<!--  --></ul></form></div></div>
+<!-- ========================= END: GNAV CONTENTS ========================= -->
+
+
+				<div id='spaceid' style="display:none;">42876959</div>
+
+
+				<link rel="stylesheet" type="text/css" href="http://us.js2.yimg.com/us.js.yimg.com/i/us/fi/yfss/css/yf_symbolsuggest_1.19.css">
+				<!-- apply yui fonts to autocomplete elements -->
+				<style type="text/css">
+				#getQuotesHelpPanel,#quoteContainer {font:13px/1.22 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}
+				#quoteContainer table {font-size:inherit;font:100%;}
+				</style>
+
+				<script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/i/us/fi/yfs/js/yahoo_event_dom_2.2.2.js"></script>
+				<script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/i/us/fi/yfss/js/autocomplete_container_ylc_yfi_20070924.js"></script>
+				<script src="http://us.js2.yimg.com/us.js.yimg.com/i/us/fi/yfss/js/yfss_concat_200802291608.js"></script>
+
+
+				<script>
+				YAHOO.util.Event.addListener(window, "load", function() { 
+					var ss = new YAHOO.Finance.SymbolSuggest();
+					ss.init("quote", "txtQuotes");
+					ss.setServer('http://d.yimg.com/autoc.finance.yahoo.com/autoc');			
+					});
+		</script>
+			<style type="text/css"> #y-nav-pri #y-main-nav {margin: 0; font-family: arial; font-size: 13px;} </style><script type="text/javascript" src="http://l.yimg.com/bm/combo?fi/common/p/d/static/js/2.0.183814/yui_2.8.0/build/yuiloader-dom-event/2.0.0/mini/yuiloader-dom-event.js&fi/common/p/d/static/js/2.0.183814/2.0.0/mini/yfi_nav_topnav.js&fi/common/p/d/static/js/2.0.183814/2.0.0/mini/yfi_nav_topnav_init.js"></script><div
+class=spacer><br></div><table
+border=0
+width=100%
+cellpadding=4
+cellspacing=0><tr
+bgcolor=6699cc><td
+valign=top><font
+face=arial
+size=+1><b>Quarterly
+Earnings Surprises for
+July 23, 2007</b></font></td><td
+width=10%><br></td><td
+align=right><font
+face=arial
+size=-1>As
+of
+22-Jan-08</font></td></tr></table><p><center><center><small>Calendars: <a href=/research/earncal/today.html>U.S. Earnings</a> | <a href=/cc/>Conf. Calls</a> | <b>Surprises</b> | <a href=/me/>Mergers</a> | <a href=/c/s.html>Splits</a> | <a href=/ipo/>IPO</a> | <a href=/c/e.html>Economic</a></small></center></center><p><center><b>July 23</b>
+|
+<a href=20070724.html>July 24</a>
+|
+<a href=20070725.html>July 25</a>
+|
+<a href=20070726.html>July 26</a>
+|
+<a href=20070727.html>July 27</a>
+|
+<a href=20070730.html>Next Week</a></center><p><table
+border=0
+width=100%
+cellpadding=2
+cellspacing=0>
+<tr
+bgcolor=a0b8c8><td
+colspan=7><font
+face=arial><b>Upside
+Surprises</b>&nbsp;<font
+size=-1>(Exceeded consensus estimates)</font></font></td></tr><tr
+bgcolor=dcdcdc><td><font
+face=arial
+size=-1><b>Company</b></font></td><th><font
+face=arial
+size=-1><b>Symbol</b></font></th><th
+align=right><font
+face=arial
+size=-1><b>Surprise (%)</b></font></th><th
+align=right><font
+face=arial
+size=-1>Reported EPS</font></th><th
+align=right><font
+face=arial
+size=-1><b>Consensus EPS</b></font></th><th><font
+face=arial
+size=-1><b>Earnings Call</b></font></th><th><font
+face=arial
+size=-1><b>More
+Info</b></font></th></tr><tr><td><small>ALTERA CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=altr">ALTR</a></small></td><td
+align=right><small>15.79</small></td><td
+align=right><small>0.22</small></td><td
+align=right><small>0.19</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=altr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=altr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=altr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=altr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=altr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=altr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=altr">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=altr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>AMBASSADORS GROUP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=epax">EPAX</a></small></td><td
+align=right><small>6.06</small></td><td
+align=right><small>1.05</small></td><td
+align=right><small>0.99</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=epax&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=epax&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=epax">News</a>, <a href="http://finance.yahoo.com/q/pr?s=epax">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=epax">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=epax">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=epax">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=epax">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=epax">Analyst Ratings</a></small></td></tr><tr><td><small>AMER EXPRESS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=axp">AXP</a></small></td><td
+align=right><small>2.33</small></td><td
+align=right><small>0.88</small></td><td
+align=right><small>0.86</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=axp&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=axp&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=axp">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=axp">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=axp">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=axp">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=axp">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=axp">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>ASTEC INDS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=aste">ASTE</a></small></td><td
+align=right><small>12.16</small></td><td
+align=right><small>0.83</small></td><td
+align=right><small>0.74</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=aste&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=aste&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=aste">News</a>, <a href="http://finance.yahoo.com/q/pr?s=aste">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=aste">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=aste">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=aste">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=aste">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=aste">Analyst Ratings</a></small></td></tr><tr><td><small>ATHEROS COMMUNICATIO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=athr">ATHR</a></small></td><td
+align=right><small>8.70</small></td><td
+align=right><small>0.25</small></td><td
+align=right><small>0.23</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=athr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=athr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=athr">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=athr">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=athr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=athr">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=athr">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=athr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>BANCORPSOUTH INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=bxs">BXS</a></small></td><td
+align=right><small>2.38</small></td><td
+align=right><small>0.43</small></td><td
+align=right><small>0.42</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=bxs&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=bxs&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=bxs">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=bxs">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=bxs">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=bxs">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=bxs">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=bxs">Analyst Ratings</a></small></td></tr><tr><td><small>BANK OF HAWAII CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=boh">BOH</a></small></td><td
+align=right><small>2.15</small></td><td
+align=right><small>0.95</small></td><td
+align=right><small>0.93</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=boh&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=boh&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=boh">News</a>, <a href="http://finance.yahoo.com/q/pr?s=boh">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=boh">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=boh">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=boh">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=boh">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=boh">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>BROWN &amp; BROWN INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=bro">BRO</a></small></td><td
+align=right><small>15.62</small></td><td
+align=right><small>0.37</small></td><td
+align=right><small>0.32</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=bro&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=bro&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=bro">News</a>, <a href="http://finance.yahoo.com/q/pr?s=bro">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=bro">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=bro">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=bro">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=bro">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=bro">Analyst Ratings</a></small></td></tr><tr><td><small>CANADIAN NATL RAILWY</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=cni">CNI</a></small></td><td
+align=right><small>1.18</small></td><td
+align=right><small>0.86</small></td><td
+align=right><small>0.85</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=cni&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=cni&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=cni">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=cni">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=cni">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=cni">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=cni">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>CAPITALSOUTH BANCORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=capb">CAPB</a></small></td><td
+align=right><small>25.00</small></td><td
+align=right><small>0.30</small></td><td
+align=right><small>0.24</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=capb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=capb">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=capb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=capb">Research</a><br><a href="http://messages.yahoo.com/?action=q&board=capb">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=capb">Insider</a></small></td></tr><tr><td><small>CNH GLOBAL NV</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=cnh">CNH</a></small></td><td
+align=right><small>9.47</small></td><td
+align=right><small>1.04</small></td><td
+align=right><small>0.95</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=cnh&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=cnh&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=cnh">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=cnh">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=cnh">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=cnh">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=cnh">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>CRANE CO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=cr">CR</a></small></td><td
+align=right><small>7.69</small></td><td
+align=right><small>0.84</small></td><td
+align=right><small>0.78</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=cr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=cr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=cr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=cr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=cr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=cr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=cr">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=cr">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=cr">Analyst Ratings</a></small></td></tr><tr><td><small>DSP GROUP INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=dspg">DSPG</a></small></td><td
+align=right><small>4.17</small></td><td
+align=right><small>0.25</small></td><td
+align=right><small>0.24</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=dspg&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=dspg&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=dspg">News</a>, <a href="http://finance.yahoo.com/q/pr?s=dspg">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=dspg">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=dspg">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=dspg">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=dspg">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=dspg">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>EPIC BANCORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=epik">EPIK</a></small></td><td
+align=right><small>17.39</small></td><td
+align=right><small>0.27</small></td><td
+align=right><small>0.23</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=epik&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=epik&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=epik">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=epik">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=epik">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=epik">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=epik">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=epik">Analyst Ratings</a></small></td></tr><tr><td><small>EQUIFAX INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=efx">EFX</a></small></td><td
+align=right><small>1.79</small></td><td
+align=right><small>0.57</small></td><td
+align=right><small>0.56</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=efx&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=efx&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=efx">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=efx">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=efx">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=efx">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=efx">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=efx">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>EVEREST RE GRP LTD</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=re">RE</a></small></td><td
+align=right><small>0.60</small></td><td
+align=right><small>3.36</small></td><td
+align=right><small>3.34</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=re&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=re&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=re">News</a>, <a href="http://finance.yahoo.com/q/pr?s=re">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=re">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=re">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=re">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=re">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=re">Analyst Ratings</a></small></td></tr><tr><td><small>GENTEX CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=gntx">GNTX</a></small></td><td
+align=right><small>4.76</small></td><td
+align=right><small>0.22</small></td><td
+align=right><small>0.21</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=gntx&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=gntx&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=gntx">News</a>, <a href="http://finance.yahoo.com/q/pr?s=gntx">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=gntx">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=gntx">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=gntx">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=gntx">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=gntx">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>GRUPO AEROPORTUARIO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=asr">ASR</a></small></td><td
+align=right><small>20.00</small></td><td
+align=right><small>0.72</small></td><td
+align=right><small>0.60</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=asr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=asr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=asr">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=asr">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=asr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=asr">Msgs</a></small></td></tr><tr><td><small>HALLIBURTON CO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=hal">HAL</a></small></td><td
+align=right><small>7.14</small></td><td
+align=right><small>0.60</small></td><td
+align=right><small>0.56</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=hal&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=hal&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=hal">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=hal">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=hal">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=hal">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=hal">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=hal">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>HASBRO INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=has">HAS</a></small></td><td
+align=right><small>33.33</small></td><td
+align=right><small>0.24</small></td><td
+align=right><small>0.18</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=has&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=has&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=has">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=has">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=has">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=has">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=has">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=has">Analyst Ratings</a></small></td></tr><tr><td><small>HERCULES INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=hpc">HPC</a></small></td><td
+align=right><small>2.56</small></td><td
+align=right><small>0.40</small></td><td
+align=right><small>0.39</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=hpc&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=hpc&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=hpc">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=hpc">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=hpc">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=hpc">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=hpc">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=hpc">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>HEXCEL CP DELAWARE</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=hxl">HXL</a></small></td><td
+align=right><small>5.88</small></td><td
+align=right><small>0.18</small></td><td
+align=right><small>0.17</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=hxl&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=hxl&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=hxl">News</a>, <a href="http://finance.yahoo.com/q/pr?s=hxl">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=hxl">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=hxl">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=hxl">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=hxl">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=hxl">Analyst Ratings</a></small></td></tr><tr><td><small>JACOBS ENGINEERNG GP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=jec">JEC</a></small></td><td
+align=right><small>7.02</small></td><td
+align=right><small>0.61</small></td><td
+align=right><small>0.57</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=jec&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=jec&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=jec">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=jec">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=jec">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=jec">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=jec">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=jec">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>JDA SOFTWARE GRP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=jdas">JDAS</a></small></td><td
+align=right><small>24.00</small></td><td
+align=right><small>0.31</small></td><td
+align=right><small>0.25</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=jdas&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=jdas&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=jdas">News</a>, <a href="http://finance.yahoo.com/q/pr?s=jdas">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=jdas">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=jdas">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=jdas">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=jdas">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=jdas">Analyst Ratings</a></small></td></tr><tr><td><small>LINCARE HLDGS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=lncr">LNCR</a></small></td><td
+align=right><small>1.61</small></td><td
+align=right><small>0.63</small></td><td
+align=right><small>0.62</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=lncr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=lncr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=lncr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=lncr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=lncr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=lncr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=lncr">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=lncr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>MERCK CO INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=mrk">MRK</a></small></td><td
+align=right><small>13.89</small></td><td
+align=right><small>0.82</small></td><td
+align=right><small>0.72</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=mrk&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=mrk&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=mrk">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=mrk">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=mrk">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=mrk">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=mrk">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=mrk">Analyst Ratings</a></small></td></tr><tr><td><small>NETFLIX INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=nflx">NFLX</a></small></td><td
+align=right><small>60.87</small></td><td
+align=right><small>0.37</small></td><td
+align=right><small>0.23</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=nflx&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=nflx&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=nflx">News</a>, <a href="http://finance.yahoo.com/q/pr?s=nflx">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=nflx">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=nflx">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=nflx">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=nflx">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=nflx">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>NORTHWEST BANCORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=nwsb">NWSB</a></small></td><td
+align=right><small>4.17</small></td><td
+align=right><small>0.25</small></td><td
+align=right><small>0.24</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=nwsb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=nwsb&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=nwsb">News</a>, <a href="http://finance.yahoo.com/q/pr?s=nwsb">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=nwsb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=nwsb">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=nwsb">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=nwsb">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=nwsb">Analyst Ratings</a></small></td></tr><tr><td><small>PACTIV CORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=ptv">PTV</a></small></td><td
+align=right><small>8.33</small></td><td
+align=right><small>0.52</small></td><td
+align=right><small>0.48</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=ptv&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=ptv&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=ptv">News</a>, <a href="http://finance.yahoo.com/q/pr?s=ptv">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=ptv">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=ptv">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=ptv">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=ptv">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=ptv">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>PETMED EXPRESS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pets">PETS</a></small></td><td
+align=right><small>13.64</small></td><td
+align=right><small>0.25</small></td><td
+align=right><small>0.22</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pets&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=pets&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=pets">News</a>, <a href="http://finance.yahoo.com/q/pr?s=pets">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pets">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pets">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=pets">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=pets">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=pets">Analyst Ratings</a></small></td></tr><tr><td><small>PRIVATEBANCORP INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pvtb">PVTB</a></small></td><td
+align=right><small>2.56</small></td><td
+align=right><small>0.40</small></td><td
+align=right><small>0.39</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pvtb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=pvtb&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=pvtb">News</a>, <a href="http://finance.yahoo.com/q/pr?s=pvtb">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pvtb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pvtb">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=pvtb">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=pvtb">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=pvtb">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>REINSURANCE GP AMER</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=rga">RGA</a></small></td><td
+align=right><small>4.80</small></td><td
+align=right><small>1.31</small></td><td
+align=right><small>1.25</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=rga&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=rga&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=rga">News</a>, <a href="http://finance.yahoo.com/q/pr?s=rga">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=rga">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=rga">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=rga">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=rga">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=rga">Analyst Ratings</a></small></td></tr><tr><td><small>RPM INTL INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=rpm">RPM</a></small></td><td
+align=right><small>8.33</small></td><td
+align=right><small>0.65</small></td><td
+align=right><small>0.60</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=rpm&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=rpm&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=rpm">News</a>, <a href="http://finance.yahoo.com/q/pr?s=rpm">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=rpm">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=rpm">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=rpm">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=rpm">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=rpm">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>SAVVIS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=svvs">SVVS</a></small></td><td
+align=right><small>331.48</small></td><td
+align=right><small>2.33</small></td><td
+align=right><small>0.54</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=svvs&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=svvs&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=svvs">News</a>, <a href="http://finance.yahoo.com/q/pr?s=svvs">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=svvs">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=svvs">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=svvs">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=svvs">Analyst Ratings</a></small></td></tr><tr><td><small>SCHERING PLOUGH CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=sgp">SGP</a></small></td><td
+align=right><small>17.14</small></td><td
+align=right><small>0.41</small></td><td
+align=right><small>0.35</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=sgp&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=sgp&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=sgp">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=sgp">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=sgp">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=sgp">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=sgp">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=sgp">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>SECURITY CAPITAL ASS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=sca">SCA</a></small></td><td
+align=right><small>10.77</small></td><td
+align=right><small>0.72</small></td><td
+align=right><small>0.65</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=sca&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=sca">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=sca">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=sca">Research</a><br><a href="http://finance.yahoo.com/q/it?s=sca">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=sca">Analyst Ratings</a></small></td></tr><tr><td><small>SIERRA BANCORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=bsrr">BSRR</a></small></td><td
+align=right><small>7.14</small></td><td
+align=right><small>0.60</small></td><td
+align=right><small>0.56</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=bsrr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=bsrr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=bsrr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=bsrr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=bsrr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=bsrr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=bsrr">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=bsrr">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=bsrr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>SILICOM LIMITED</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=silc">SILC</a></small></td><td
+align=right><small>25.00</small></td><td
+align=right><small>0.25</small></td><td
+align=right><small>0.20</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=silc&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=silc">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=silc">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=silc">Research</a><br><a href="http://messages.yahoo.com/?action=q&board=silc">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=silc">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=silc">Analyst Ratings</a></small></td></tr><tr><td><small>SL GREEN REALTY CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=slg">SLG</a></small></td><td
+align=right><small>12.50</small></td><td
+align=right><small>1.26</small></td><td
+align=right><small>1.12</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=slg&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=slg&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=slg">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=slg">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=slg">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=slg">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=slg">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=slg">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>TASER INTL INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tasr">TASR</a></small></td><td
+align=right><small>50.00</small></td><td
+align=right><small>0.06</small></td><td
+align=right><small>0.04</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tasr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/h?s=tasr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=tasr">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tasr">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=tasr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tasr">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=tasr">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=tasr">Analyst Ratings</a></small></td></tr><tr><td><small>THOMAS BETTS CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tnb">TNB</a></small></td><td
+align=right><small>2.56</small></td><td
+align=right><small>0.80</small></td><td
+align=right><small>0.78</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tnb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=tnb&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=tnb">News</a>, <a href="http://finance.yahoo.com/q/pr?s=tnb">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tnb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=tnb">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tnb">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=tnb">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=tnb">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>TIM PARTICIPACOES SA</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tsu">TSU</a></small></td><td
+align=right><small>450.00</small></td><td
+align=right><small>0.07</small></td><td
+align=right><small>-0.02</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tsu&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=tsu&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=tsu">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tsu">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=tsu">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tsu">Msgs</a></small></td></tr><tr><td><small>TOTAL SYSTEM SVC INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tss">TSS</a></small></td><td
+align=right><small>3.13</small></td><td
+align=right><small>0.33</small></td><td
+align=right><small>0.32</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tss&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=tss&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=tss">News</a>, <a href="http://finance.yahoo.com/q/pr?s=tss">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tss">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=tss">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tss">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=tss">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=tss">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>UNITED FIRE CASUAL</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=ufcs">UFCS</a></small></td><td
+align=right><small>49.32</small></td><td
+align=right><small>1.09</small></td><td
+align=right><small>0.73</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=ufcs&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=ufcs&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=ufcs">News</a>, <a href="http://finance.yahoo.com/q/pr?s=ufcs">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=ufcs">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=ufcs">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=ufcs">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=ufcs">Analyst Ratings</a></small></td></tr><tr><td><small>WASTE CONNECTIONS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=wcn">WCN</a></small></td><td
+align=right><small>5.88</small></td><td
+align=right><small>0.36</small></td><td
+align=right><small>0.34</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=wcn&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=wcn&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=wcn">News</a>, <a href="http://finance.yahoo.com/q/pr?s=wcn">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=wcn">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=wcn">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=wcn">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=wcn">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=wcn">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>WOODWARD GOVERNOR</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=wgov">WGOV</a></small></td><td
+align=right><small>6.25</small></td><td
+align=right><small>0.68</small></td><td
+align=right><small>0.64</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=wgov&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=wgov&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=wgov">News</a>, <a href="http://finance.yahoo.com/q/pr?s=wgov">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=wgov">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=wgov">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=wgov">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=wgov">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=wgov">Analyst Ratings</a></small></td></tr><tr><td><small>ZORAN CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=zran">ZRAN</a></small></td><td
+align=right><small>50.00</small></td><td
+align=right><small>0.33</small></td><td
+align=right><small>0.22</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=zran&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=zran&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=zran">News</a>, <a href="http://finance.yahoo.com/q/pr?s=zran">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=zran">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=zran">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=zran">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=zran">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=zran">Analyst Ratings</a></small></td></tr><tr><td
+colspan=7><small>&nbsp;</small></td></tr>
+
+
+<tr
+bgcolor=a0b8c8><td
+colspan=7><font
+face=arial><b>Met
+Expectations</b>&nbsp;<font
+size=-1>(In-line with consensus estimates)</font></font></td></tr><tr
+bgcolor=dcdcdc><td><font
+face=arial
+size=-1><b>Company</b></font></td><th><font
+face=arial
+size=-1><b>Symbol</b></font></th><th
+align=right><font
+face=arial
+size=-1><b>Surprise (%)</b></font></th><th
+align=right><font
+face=arial
+size=-1>Reported EPS</font></th><th
+align=right><font
+face=arial
+size=-1><b>Consensus EPS</b></font></th><th><font
+face=arial
+size=-1><b>Earnings Call</b></font></th><th><font
+face=arial
+size=-1><b>More
+Info</b></font></th></tr><tr><td><small>AMYLIN PHARMA INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=amln">AMLN</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>-0.34</small></td><td
+align=right><small>-0.34</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=amln&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=amln&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=amln">News</a>, <a href="http://finance.yahoo.com/q/pr?s=amln">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=amln">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=amln">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=amln">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=amln">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=amln">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>ARROW FINANCIAL CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=arow">AROW</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.39</small></td><td
+align=right><small>0.39</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=arow&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=arow&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=arow">News</a>, <a href="http://finance.yahoo.com/q/pr?s=arow">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=arow">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=arow">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=arow">Msgs</a></small></td></tr><tr><td><small>BERKLEY W R CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=ber">BER</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.92</small></td><td
+align=right><small>0.92</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=ber&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=ber&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=ber">News</a>, <a href="http://finance.yahoo.com/q/pr?s=ber">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=ber">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=ber">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=ber">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=ber">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=ber">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>DIGI INTL INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=dgii">DGII</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.15</small></td><td
+align=right><small>0.15</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=dgii&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=dgii&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=dgii">News</a>, <a href="http://finance.yahoo.com/q/pr?s=dgii">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=dgii">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=dgii">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=dgii">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=dgii">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=dgii">Analyst Ratings</a></small></td></tr><tr><td><small>EDWARDS LIFESCIENCES</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=ew">EW</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.57</small></td><td
+align=right><small>0.57</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=ew&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=ew&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=ew">News</a>, <a href="http://finance.yahoo.com/q/pr?s=ew">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=ew">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=ew">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=ew">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=ew">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=ew">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>LEE ENTERPRISES</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=lee">LEE</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.49</small></td><td
+align=right><small>0.49</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=lee&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=lee&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=lee">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=lee">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=lee">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=lee">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=lee">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=lee">Analyst Ratings</a></small></td></tr><tr><td><small>LIBERTY PROPERTIES</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=lry">LRY</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.79</small></td><td
+align=right><small>0.79</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=lry&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=lry&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=lry">News</a>, <a href="http://finance.yahoo.com/q/pr?s=lry">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=lry">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=lry">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=lry">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=lry">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=lry">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>MINDSPEED TECH</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=mspd">MSPD</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.00</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=mspd&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=mspd&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=mspd">News</a>, <a href="http://finance.yahoo.com/q/pr?s=mspd">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=mspd">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=mspd">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=mspd">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=mspd">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=mspd">Analyst Ratings</a></small></td></tr><tr><td><small>PFF BANCORP INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pfb">PFB</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.08</small></td><td
+align=right><small>0.08</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pfb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=pfb&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=pfb">News</a>, <a href="http://finance.yahoo.com/q/pr?s=pfb">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pfb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pfb">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=pfb">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=pfb">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=pfb">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>PLX TECHNOLOGY INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=plxt">PLXT</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.05</small></td><td
+align=right><small>0.05</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=plxt&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=plxt&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=plxt">News</a>, <a href="http://finance.yahoo.com/q/pr?s=plxt">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=plxt">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=plxt">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=plxt">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=plxt">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=plxt">Analyst Ratings</a></small></td></tr><tr><td><small>TEXAS INSTRUMENTS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=txn">TXN</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.42</small></td><td
+align=right><small>0.42</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=txn&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=txn&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=txn">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=txn">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=txn">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=txn">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=txn">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=txn">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>ULTRA CLEAN HOLDINGS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=uctt">UCTT</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.23</small></td><td
+align=right><small>0.23</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=uctt&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=uctt&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=uctt">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=uctt">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=uctt">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=uctt">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=uctt">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=uctt">Analyst Ratings</a></small></td></tr><tr><td><small>WASHINGTON TRUST</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=wash">WASH</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.46</small></td><td
+align=right><small>0.46</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=wash&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=wash&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=wash">News</a>, <a href="http://finance.yahoo.com/q/pr?s=wash">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=wash">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=wash">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=wash">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=wash">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>WINTRUST FIN CORP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=wtfc">WTFC</a></small></td><td
+align=right><small>0.00</small></td><td
+align=right><small>0.62</small></td><td
+align=right><small>0.62</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=wtfc&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=wtfc&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=wtfc">News</a>, <a href="http://finance.yahoo.com/q/pr?s=wtfc">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=wtfc">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=wtfc">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=wtfc">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=wtfc">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=wtfc">Analyst Ratings</a></small></td></tr><tr><td
+colspan=7><small>&nbsp;</small></td></tr>
+
+
+<tr
+bgcolor=a0b8c8><td
+colspan=7><font
+face=arial><b>Downside
+Surprises</b>&nbsp;<font
+size=-1>(Below consensus estimates)</font></font></td></tr><tr
+bgcolor=dcdcdc><td><font
+face=arial
+size=-1><b>Company</b></font></td><th><font
+face=arial
+size=-1><b>Symbol</b></font></th><th
+align=right><font
+face=arial
+size=-1><b>Surprise (%)</b></font></th><th
+align=right><font
+face=arial
+size=-1>Reported EPS</font></th><th
+align=right><font
+face=arial
+size=-1><b>Consensus EPS</b></font></th><th><font
+face=arial
+size=-1><b>Earnings Call</b></font></th><th><font
+face=arial
+size=-1><b>More
+Info</b></font></th></tr><tr><td><small>ARCH COAL INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=aci">ACI</a></small></td><td
+align=right><small>-3.70</small></td><td
+align=right><small>0.26</small></td><td
+align=right><small>0.27</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=aci&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=aci&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=aci">News</a>, <a href="http://finance.yahoo.com/q/pr?s=aci">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=aci">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=aci">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=aci">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=aci">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=aci">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>BANK OF GRANITE</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=gran">GRAN</a></small></td><td
+align=right><small>-82.14</small></td><td
+align=right><small>0.05</small></td><td
+align=right><small>0.28</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=gran&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=gran&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=gran">News</a>, <a href="http://finance.yahoo.com/q/pr?s=gran">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=gran">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=gran">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=gran">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=gran">Analyst Ratings</a></small></td></tr><tr><td><small>CHARLES &amp; COLVARD</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=cthr">CTHR</a></small></td><td
+align=right><small>-50.00</small></td><td
+align=right><small>0.03</small></td><td
+align=right><small>0.06</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=cthr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=cthr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=cthr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=cthr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=cthr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=cthr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=cthr">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=cthr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>CHEMICAL FIN CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=chfc">CHFC</a></small></td><td
+align=right><small>-2.50</small></td><td
+align=right><small>0.39</small></td><td
+align=right><small>0.40</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=chfc&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=chfc&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=chfc">News</a>, <a href="http://finance.yahoo.com/q/pr?s=chfc">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=chfc">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=chfc">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=chfc">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=chfc">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=chfc">Analyst Ratings</a></small></td></tr><tr><td><small>CITY HOLDING CO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=chco">CHCO</a></small></td><td
+align=right><small>-1.37</small></td><td
+align=right><small>0.72</small></td><td
+align=right><small>0.73</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=chco&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=chco&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=chco">News</a>, <a href="http://finance.yahoo.com/q/pr?s=chco">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=chco">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=chco">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=chco">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=chco">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=chco">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>CORUS BKSHS INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=cors">CORS</a></small></td><td
+align=right><small>-3.28</small></td><td
+align=right><small>0.59</small></td><td
+align=right><small>0.61</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=cors&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=cors&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=cors">News</a>, <a href="http://finance.yahoo.com/q/pr?s=cors">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=cors">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=cors">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=cors">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=cors">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=cors">Analyst Ratings</a></small></td></tr><tr><td><small>EURONET WORLDWIDE</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=eeft">EEFT</a></small></td><td
+align=right><small>-3.33</small></td><td
+align=right><small>0.29</small></td><td
+align=right><small>0.30</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=eeft&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=eeft&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=eeft">News</a>, <a href="http://finance.yahoo.com/q/pr?s=eeft">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=eeft">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=eeft">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=eeft">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=eeft">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=eeft">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>EV3 INC.</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=evvv">EVVV</a></small></td><td
+align=right><small>-42.86</small></td><td
+align=right><small>-0.20</small></td><td
+align=right><small>-0.14</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=evvv&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=evvv">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=evvv">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=evvv">Research</a><br><a href="http://messages.yahoo.com/?action=q&board=evvv">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=evvv">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=evvv">Analyst Ratings</a></small></td></tr><tr><td><small>FIRST CHARTER CP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=fctr">FCTR</a></small></td><td
+align=right><small>-7.14</small></td><td
+align=right><small>0.26</small></td><td
+align=right><small>0.28</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=fctr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=fctr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=fctr">News</a>, <a href="http://finance.yahoo.com/q/pr?s=fctr">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=fctr">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=fctr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=fctr">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=fctr">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>GRUPO AEROPORTUARIO</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pac">PAC</a></small></td><td
+align=right><small>-4.17</small></td><td
+align=right><small>0.46</small></td><td
+align=right><small>0.48</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pac&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=pac">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pac">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pac">Research</a><br><a href="http://messages.yahoo.com/?action=q&board=pac">Msgs</a></small></td></tr><tr><td><small>JOURNAL COMM INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=jrn">JRN</a></small></td><td
+align=right><small>-5.00</small></td><td
+align=right><small>0.19</small></td><td
+align=right><small>0.20</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=jrn&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=jrn&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=jrn">News</a>, <a href="http://finance.yahoo.com/q/pr?s=jrn">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=jrn">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=jrn">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=jrn">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=jrn">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=jrn">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>LIFEPOINT HOSP INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=lpnt">LPNT</a></small></td><td
+align=right><small>-29.51</small></td><td
+align=right><small>0.43</small></td><td
+align=right><small>0.61</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=lpnt&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=lpnt&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=lpnt">News</a>, <a href="http://finance.yahoo.com/q/pr?s=lpnt">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=lpnt">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=lpnt">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=lpnt">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=lpnt">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=lpnt">Analyst Ratings</a></small></td></tr><tr><td><small>MARTEN TRANSPORT L</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=mrtn">MRTN</a></small></td><td
+align=right><small>-31.03</small></td><td
+align=right><small>0.20</small></td><td
+align=right><small>0.29</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=mrtn&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=mrtn&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=mrtn">News</a>, <a href="http://finance.yahoo.com/q/pr?s=mrtn">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=mrtn">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=mrtn">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=mrtn">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=mrtn">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>MATRIXX INITIATVS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=mtxx">MTXX</a></small></td><td
+align=right><small>-10.00</small></td><td
+align=right><small>-0.11</small></td><td
+align=right><small>-0.10</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=mtxx&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=mtxx&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=mtxx">News</a>, <a href="http://finance.yahoo.com/q/pr?s=mtxx">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=mtxx">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=mtxx">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=mtxx">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=mtxx">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=mtxx">Analyst Ratings</a></small></td></tr><tr><td><small>MB FINANCIAL INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=mbfi">MBFI</a></small></td><td
+align=right><small>-1.96</small></td><td
+align=right><small>0.50</small></td><td
+align=right><small>0.51</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=mbfi&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=mbfi&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=mbfi">News</a>, <a href="http://finance.yahoo.com/q/pr?s=mbfi">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=mbfi">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=mbfi">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=mbfi">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=mbfi">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>NBT BANCORP INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=nbtb">NBTB</a></small></td><td
+align=right><small>-14.29</small></td><td
+align=right><small>0.36</small></td><td
+align=right><small>0.42</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=nbtb&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=nbtb&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=nbtb">News</a>, <a href="http://finance.yahoo.com/q/pr?s=nbtb">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=nbtb">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=nbtb">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=nbtb">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=nbtb">Analyst Ratings</a></small></td></tr><tr><td><small>PARTNERRE LTD</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pre">PRE</a></small></td><td
+align=right><small>-4.02</small></td><td
+align=right><small>2.39</small></td><td
+align=right><small>2.49</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pre&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=pre&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=pre">News</a>, <a href="http://finance.yahoo.com/q/pr?s=pre">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pre">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pre">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=pre">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=pre">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=pre">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>PLUM CREEK TIM REIT</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=pcl">PCL</a></small></td><td
+align=right><small>-2.94</small></td><td
+align=right><small>0.33</small></td><td
+align=right><small>0.34</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=pcl&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=pcl&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=pcl">News</a>, <a href="http://finance.yahoo.com/q/pr?s=pcl">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=pcl">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=pcl">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=pcl">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=pcl">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=pcl">Analyst Ratings</a></small></td></tr><tr><td><small>SIFY TECHS LTD ADS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=sify">SIFY</a></small></td><td
+align=right><small>-50.00</small></td><td
+align=right><small>-0.03</small></td><td
+align=right><small>-0.02</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=sify&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=sify&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=sify">News</a>, <a href="http://finance.yahoo.com/q/pr?s=sify">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=sify">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=sify">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=sify">Msgs</a></small></td></tr><tr bgcolor=eeeeee><td><small>SOMERSET HILLS BNCP</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=somh">SOMH</a></small></td><td
+align=right><small>-9.09</small></td><td
+align=right><small>0.10</small></td><td
+align=right><small>0.11</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=somh&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=somh&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=somh">News</a>, <a href="http://finance.yahoo.com/q/pr?s=somh">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=somh">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=somh">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=somh">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=somh">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=somh">Analyst Ratings</a></small></td></tr><tr><td><small>STEEL DYNAMICS</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=stld">STLD</a></small></td><td
+align=right><small>-1.92</small></td><td
+align=right><small>1.02</small></td><td
+align=right><small>1.04</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=stld&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=stld&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=stld">News</a>, <a href="http://finance.yahoo.com/q/pr?s=stld">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=stld">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=stld">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=stld">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=stld">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=stld">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>STERLING FINL (WA)</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=stsa">STSA</a></small></td><td
+align=right><small>-1.82</small></td><td
+align=right><small>0.54</small></td><td
+align=right><small>0.55</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=stsa&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=stsa&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/h?s=stsa">News</a>, <a href="http://finance.yahoo.com/q/pr?s=stsa">Profile</a><br><a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=stsa">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=stsa">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=stsa">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=stsa">Analyst Ratings</a></small></td></tr><tr><td><small>TELVISA S.A.</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tv">TV</a></small></td><td
+align=right><small>-8.33</small></td><td
+align=right><small>0.33</small></td><td
+align=right><small>0.36</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tv&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=tv&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=tv">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tv">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=tv">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tv">Msgs</a></small></td></tr><tr bgcolor=eeeeee><td><small>TGC IND INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tge">TGE</a></small></td><td
+align=right><small>-46.67</small></td><td
+align=right><small>0.08</small></td><td
+align=right><small>0.15</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tge&d=t">Quote</a>, <a href="http://finance.yahoo.com/q/pr?s=tge">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tge">Reports</a>, <a href="http://finance.yahoo.com/q/ae?s=tge">Research</a><br><a href="http://messages.yahoo.com/?action=q&board=tge">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=tge">Analyst Ratings</a></small></td></tr><tr><td><small>TOMOTHERAPY INC</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=tomo">TOMO</a></small></td><td
+align=right><small>-357.14</small></td><td
+align=right><small>-0.18</small></td><td
+align=right><small>0.07</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=tomo&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=tomo&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=tomo">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=tomo">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=tomo">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=tomo">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=tomo">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=tomo">Analyst Ratings</a></small></td></tr><tr bgcolor=eeeeee><td><small>VOLTERRA SEMICONDUCT</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=vltr">VLTR</a></small></td><td
+align=right><small>-40.00</small></td><td
+align=right><small>-0.07</small></td><td
+align=right><small>-0.05</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=vltr&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=vltr&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=vltr">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=vltr">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=vltr">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=vltr">Msgs</a>, <a href="http://finance.yahoo.com/q/sa?s=vltr">Analyst Ratings</a></small></td></tr><tr><td><small>WEATHERFORD INTL NEW</small></td><td
+align=center><small><a href="http://finance.yahoo.com/q?s=wft">WFT</a></small></td><td
+align=right><small>-2.86</small></td><td
+align=right><small>0.68</small></td><td
+align=right><small>0.70</small></td><td
+align=center><small>N/A</small></td><td
+nowrap
+align=center><small><a href="http://finance.yahoo.com/q?s=wft&d=t">Quote</a>, <a href="http://finance.yahoo.com/q?s=wft&d=1y">Chart</a>, <a href="http://finance.yahoo.com/q/pr?s=wft">Profile</a>, <a href="http://screen.yahoo.com/d?vw=0&db=reports&z=dat&tk=wft">Reports</a><br><a href="http://finance.yahoo.com/q/ae?s=wft">Research</a>, <a href="http://messages.yahoo.com/?action=q&board=wft">Msgs</a>, <a href="http://finance.yahoo.com/q/it?s=wft">Insider</a>, <a href="http://finance.yahoo.com/q/sa?s=wft">Analyst Ratings</a></small></td></tr><tr><td
+colspan=7><small>&nbsp;</small></td></tr>
+</table><br
+clear=all><p><hr
+size=1
+noshade><center><font
+size=-2
+face=arial>
+<!-- SpaceID=0 robot -->
+<font size=-2 face=arial>Copyright &copy; 2012 Yahoo! Inc.
+All rights reserved. <a href=http://privacy.yahoo.com>Privacy Policy</a> -
+<a href=http://docs.yahoo.com/info/terms/>Terms of Service</a></font><br>All
+research data is provided by Thomson Financial Network,
+based solely
+upon research information provided by third party analysts.
+Yahoo! has not
+reviewed, and in no way endorses the validity of such
+data. Yahoo! and
+ThomsonFN shall not be liable for any actions taken
+in reliance thereon.
+</font><br><font
+size=-2
+face=arial><a
+href=http://help.yahoo.com/help/us/fin/research/research-04.html>Questions
+or
+Comments?</a></font></center>
+ <!-- Yahoo TimeStamp: 1201006870 -->
+</body></html><!-- biz2.sp2 30229 -->
+ <!-- biz2.finance.sp2.yahoo.com uncompressed/chunked Tue Dec  4 14:23:39 PST 2012 -->
