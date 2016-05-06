@@ -1,10 +1,15 @@
+'''
+Preprocessing class that cleans up the reports as they contain html elements which do not provide
+much in this application. It also strips away punctuation as the reports do not have much emotion.
+If analyzing analysts writing, or market sentiment, punctuation may be more useful.
+'''
+
 import nltk
 import string
 import datetime
 import Report
 import pandas as pd
 from bs4 import BeautifulSoup
-from nltk.stem.porter import PorterStemmer
 
 
 class DataReducer:
@@ -14,9 +19,10 @@ class DataReducer:
         self.starting_date = starting_date
         self.last_stock_data = datetime.date(2013, 2, 1)
         self.reduce_reports()
+        # Performing initial preprocessing takes some time, this is a more of a sanity check to ensure the program
+        # is actually working and not stuck
         print(company_name, " report done")
-        #self.reduce_prices()
-        #print(company_name, "prices done")
+
 
     '''
     Split the reports in a file by date and save tokenize the text in a Report
@@ -54,11 +60,22 @@ class DataReducer:
                 instead of using NLTK's stop word corpus.
             '''
             words = [w for w in tokens if w.isalpha() ]
-            #and w not in nltk.corpus.stopwords.words('english')
-            #words = [PorterStemmer().stem(w) for w in words]   # stem words
+            '''
+            Removing stop words will be handled by the Sklearn Naive Bayes algorithm
+            tried performing stemming here, but the Sklearn estimator did had issues with
+            removing stop words after the data was stemmed
+            '''
+            # 0-8 are the data for the date of the report in this form: "YYYYMMDD"
             cur_report = Report.Report(report[0][:8], " ".join(words))
+            '''
+            The report here was changed later so for this to run, the calculate_classifiers method must be
+            commented out. I tried to add a if statement to check and circumvent this problem
+            but I think it would be better to rewrite it with a parent and child class
+            '''
             self.reports.append(cur_report)
 
+        # File names have to be changed manually in the future when processing more data
+        # Need to update this as well
         cur_file = open('2010ReducedReports/'+self.company_name+'.txt', 'w')
         for report in self.reports:
             cur_file.write(report.date)
@@ -76,6 +93,7 @@ class DataReducer:
         data.to_csv("ReducedPrices/"+self.company_name+".csv", index=False)
 
 
+# Companies that need to be in the folder to process
 companies = ['AAPL', 'MSFT', 'GOOG', 'SNDK', 'IBM', 'HPQ' ]
 
 for company in companies:

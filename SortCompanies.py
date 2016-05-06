@@ -1,6 +1,14 @@
+'''
+This class acts like a preprocessor to the prepocessor. The orignal corpus contained over 1 GB of data.
+While it may give better results with extra data, the time it would take to train with that much data
+is impractical. In the future, there are parts that are parallelizable, such as striping html elements
+that would provide some speed up benefits and may make tackling so much data feasible.
+'''
+
 import numpy as np
 import pandas as pd
 
+# Get a list of companies
 company_data = np.array(pd.read_csv('snp500_company_list.txt', header=None, delimiter='\t').T)
 
 '''
