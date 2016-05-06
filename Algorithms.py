@@ -12,6 +12,7 @@ Once the data is processed, it is fed into Sklean's Multinomial Naive Bayes esti
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.ensemble import RandomForestClassifier
 from DataPrep import DataPrep
 import numpy as np
 from sklearn import metrics
@@ -104,18 +105,32 @@ class NBCombined:
             # K-folds evaluation
             for index in range(num_folds-1):
 
-                train_classifier = self.example_classifiers[index][index*num_vals:(index+1)*num_vals]
+                train_classifier = self.example_classifiers[i][0:(index+1)*num_vals]
+                f_clf = RandomForestClassifier(n_estimators=10)
+                f_clf = f_clf.fit(X_train_tfidf[0:(index+1)*num_vals], train_classifier)
+                f_predicted = f_clf.predict(X_train_tfidf[(index+1)*num_vals: (index+2)*num_vals])
+                classifier_predicted = self.example_classifiers[i][(index+1)*num_vals:(index+2)*num_vals]
+
+                print("============================")
+                print("Random Forrest")
+                print("Accuracy", np.mean(f_predicted == classifier_predicted))
+                print(metrics.classification_report(classifier_predicted, f_predicted, target_names=["Sell","Hold","Buy"]))
+
                 '''
                 Set an alpha value for Laplace smoothing. Naive bayes runs into issues with having 0
                 of a vector/word as it assumes independence for each parameter and multiplies them
                 together so a 0 value can mess things up
                 '''
-                clf = MultinomialNB(alpha=.0001).fit(X_train_tfidf[index*num_vals:(index+1)*num_vals], train_classifier)
-                predicted = clf.predict(X_train_tfidf[(index+1)*num_vals: (index+2)*num_vals])
 
-                print("Accuracy", np.mean(predicted == train_classifier))
-                print(metrics.classification_report(train_classifier, predicted,
-                target_names=["Sell","Hold","Buy"]))
+
+                clf = MultinomialNB(alpha=.0001).fit(X_train_tfidf[0:(index+1)*num_vals], train_classifier)
+                predicted = clf.predict(X_train_tfidf[(index+1)*num_vals: (index+2)*num_vals])
+                classifier_predicted =  self.example_classifiers[i][(index+1)*num_vals:(index+2)*num_vals]
+
+                print("============================")
+                print("Naive Bayes")
+                print("Accuracy", np.mean(predicted == classifier_predicted))
+                print(metrics.classification_report(classifier_predicted, predicted, target_names=["Sell","Hold","Buy"]))
 
 year = str(input("Enter a number (2008, 2009 or 2010) and see the evaluation results."))
 

@@ -1,171 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08fac62a-5153-4c18-9dec-71fd3be2a2e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/AAPL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/GOOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/HPQ.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/IBM.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/MSFT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009ReducedReports/SNDK.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/AAPL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/GOOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/HPQ.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/IBM.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/MSFT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010ReducedReports/SNDK.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/AAPL.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ACN.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ADBE.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ADI.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ADP.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ADSK.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/AKAM.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ALTR.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/AMAT.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/AMD.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/APH.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/BMC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/BRCM.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CA.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CRM.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CSC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CSCO.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CTSH.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/CTXS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/DELL.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/EA.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/EBAY.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/EMC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/FFIV.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/FIS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/FISV.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/FLIR.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/FSLR.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/GLW.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/GOOG.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/HPQ.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/HRS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/IBM.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/INTC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/INTU.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/JBL.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/JDSU.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/JNPR.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/KLAC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/LLTC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/LRCX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/LSI.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/LXK.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MA.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MCHP.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MOLX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MSFT.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MSI.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/MU.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/NTAP.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/NVDA.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/ORCL.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/PAYX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/QCOM.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/RHT.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/SAI.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/SNDK.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/STX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/SYMC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/TDC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/TEL.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/TER.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/TSS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/TXN.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/V.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/VRSN.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/WDC.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/WU.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/XLNX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/XRX.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prices/YHOO.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/AAPL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ACN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ADBE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ADI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ADP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ADSK.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/AKAM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ALTR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/AMAT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/AMD.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/APH.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/BMC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/BRCM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CA.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CRM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CSC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CSCO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CTSH.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/CTXS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/DELL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/EA.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/EBAY.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/EMC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/FFIV.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/FIS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/FISV.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/FLIR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/FSLR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/GLW.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/HPQ.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/HRS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/IBM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/INTC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/INTU.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/JBL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/JDSU.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/JNPR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/KLAC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/LLTC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/LRCX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/LSI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/LXK.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MA.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MCHP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MOLX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MSFT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MSI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/MU.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/NTAP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/NVDA.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/ORCL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/PAYX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/QCOM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/RHT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/SAI.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/SNDK.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/STX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/SYMC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/TDC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/TEL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/TER.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/TSS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/TXN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/V.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/VRSN.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/WDC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/WU.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/XLNX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/XRX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/YHOO.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/AAPL.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/AAPL.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/GOOG.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/GOOG.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/HPQ.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/HPQ.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/IBM.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/IBM.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/MSFT.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/MSFT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReducedReports/SNDK.txt" afterPath="$PROJECT_DIR$/2008ReducedReports/SNDK.txt" />
+    <list default="true" id="08fac62a-5153-4c18-9dec-71fd3be2a2e4" name="Default" comment="Final comments added. Onto writing a brief report with pretty graphs">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms.py" afterPath="$PROJECT_DIR$/Algorithms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataPrep.py" afterPath="$PROJECT_DIR$/DataPrep.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataReducing.py" afterPath="$PROJECT_DIR$/DataReducing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Report.py" afterPath="$PROJECT_DIR$/Report.py" />
     </list>
     <ignored path="Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -186,47 +24,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataPrep.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataPrep.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21626984">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataReducing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataReducing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Report.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Report.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Algorithms.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Algorithms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state vertical-scroll-proportion="-0.23853211">
+              <caret line="116" column="87" selection-start-line="116" selection-start-column="87" selection-end-line="116" selection-end-column="87" />
               <folding>
-                <element signature="e#0#59#0" expanded="true" />
+                <element signature="e#633#692#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -248,7 +52,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/snp500_company_list.txt" />
-        <option value="$PROJECT_DIR$/SortCompanies.py" />
         <option value="$PROJECT_DIR$/CleanReports.py" />
         <option value="$PROJECT_DIR$/reports/AAPL.txt" />
         <option value="$PROJECT_DIR$/reports/Report.py" />
@@ -264,18 +67,19 @@
         <option value="$PROJECT_DIR$/ReducedReports/SNDK.txt" />
         <option value="$PROJECT_DIR$/ReducedReports/AAPL.txt" />
         <option value="$PROJECT_DIR$/ReducedReports/IBM.txt" />
-        <option value="$PROJECT_DIR$/DataPrep.py" />
         <option value="$PROJECT_DIR$/2009ReducedReports/IBM.txt" />
-        <option value="$PROJECT_DIR$/DataReducing.py" />
-        <option value="$PROJECT_DIR$/Report.py" />
-        <option value="$PROJECT_DIR$/Algorithms.py" />
         <option value="$PROJECT_DIR$/2010ReducedReports/IBM.txt" />
+        <option value="$PROJECT_DIR$/DataPrep.py" />
+        <option value="$PROJECT_DIR$/Report.py" />
+        <option value="$PROJECT_DIR$/DataReducing.py" />
+        <option value="$PROJECT_DIR$/SortCompanies.py" />
+        <option value="$PROJECT_DIR$/Algorithms.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="39" />
+    <option name="x" value="63" />
+    <option name="y" value="50" />
     <option name="width" value="1109" />
     <option name="height" value="622" />
   </component>
@@ -304,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -324,7 +129,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -597,7 +401,19 @@
       <option name="project" value="LOCAL" />
       <updated>1462549852605</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added processed data from 2008-2012, 2009-2012, and 2010-2012 so a more thorough evaluation can be run if desired">
+      <created>1462554315574</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1462554315574</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final comments added. Onto writing a brief report with pretty graphs">
+      <created>1462556602931</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1462556602931</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -610,16 +426,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="39" width="1109" height="622" extended-state="0" />
+    <frame x="63" y="50" width="1109" height="622" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495396" sideWeight="0.48595506" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24908088" sideWeight="0.48595506" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830188" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24885216" sideWeight="0.51404494" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32706767" sideWeight="0.4931256" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830188" sideWeight="0.49679193" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33270678" sideWeight="0.49679193" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33270678" sideWeight="0.49679193" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49679193" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -664,19 +480,31 @@
     <MESSAGE value="Made a class to tokenize and preprocess the data" />
     <MESSAGE value="Reducing the data to 7 companies from 2010-2012" />
     <MESSAGE value="Nearly done for turning in. Need to add some additional comments. Overall the predictor shows promise and could definitely be improved. I would highly recommend against using this for anything other than learning purposes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nearly done for turning in. Need to add some additional comments. Overall the predictor shows promise and could definitely be improved. I would highly recommend against using this for anything other than learning purposes" />
+    <MESSAGE value="Added processed data from 2008-2012, 2009-2012, and 2010-2012 so a more thorough evaluation can be run if desired" />
+    <MESSAGE value="Final comments added. Onto writing a brief report with pretty graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final comments added. Onto writing a brief report with pretty graphs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#633#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataPrep.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -685,9 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="82" selection-start-line="58" selection-start-column="82" selection-end-line="58" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,9 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortCompanies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96307695">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/numpy/lib/shape_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3323077">
@@ -824,15 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9296636">
           <caret line="1118" column="0" selection-start-line="1118" selection-start-column="0" selection-end-line="1118" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="1383" column="0" selection-start-line="1383" selection-start-column="0" selection-end-line="1383" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,25 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6703297">
           <caret line="0" column="2226589" selection-start-line="0" selection-start-column="2226589" selection-end-line="0" selection-end-column="2226589" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataReducing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,26 +660,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6703297">
           <caret line="0" column="1937781" selection-start-line="0" selection-start-column="1937781" selection-end-line="0" selection-end-column="1937781" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataPrep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8214286">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13095239">
+          <caret line="15" column="85" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataReducing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08928572">
+          <caret line="3" column="83" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortCompanies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6547619">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/sklearn/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="526" column="0" selection-start-line="526" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.033639144">
+          <caret line="1073" column="0" selection-start-line="1073" selection-start-column="0" selection-end-line="1073" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state vertical-scroll-proportion="-0.23853211">
+          <caret line="116" column="87" selection-start-line="116" selection-start-column="87" selection-end-line="116" selection-end-column="87" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataPrep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21626984">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#633#692#0" expanded="true" />
           </folding>
         </state>
       </provider>
