@@ -23,7 +23,7 @@ class DataReducer:
         object that holds the date of the report and text
     '''
     def reduce_reports(self):
-        file = open("ReducedReports/"+self.company_name+".txt")
+        file = open("2010ReducedReports/"+self.company_name+".txt")
         raw = file.read()
         # remove html elements
         soup = BeautifulSoup(raw.translate(string.punctuation), "lxml")
@@ -56,10 +56,10 @@ class DataReducer:
             words = [w for w in tokens if w.isalpha() ]
             #and w not in nltk.corpus.stopwords.words('english')
             #words = [PorterStemmer().stem(w) for w in words]   # stem words
-            cur_report = Report.Report(report[0][:8], " ".join(words), simple=True)
+            cur_report = Report.Report(report[0][:8], " ".join(words))
             self.reports.append(cur_report)
 
-        cur_file = open('ReducedReports/'+self.company_name+'.txt', 'w')
+        cur_file = open('2010ReducedReports/'+self.company_name+'.txt', 'w')
         for report in self.reports:
             cur_file.write(report.date)
             cur_file.write(" REPORT ")
@@ -79,4 +79,4 @@ class DataReducer:
 companies = ['AAPL', 'MSFT', 'GOOG', 'SNDK', 'IBM', 'HPQ' ]
 
 for company in companies:
-    test = DataReducer(company, datetime.date(2008, 1, 1))
+    test = DataReducer(company, datetime.date(2010, 1, 1))

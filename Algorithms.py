@@ -5,34 +5,9 @@ from DataPrep import DataPrep
 import numpy as np
 from sklearn import metrics
 
-import warnings
-#warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
 
-'''
-class NB:
-    def __init__(self, company_name):
-        self.data = []
-        self.classifications = []
-        # calculate data for 3 time periods and so we need 3 classifiers
-        self.classifier = [None] * 3
-        self.company_name = company_name
-
-    def get_data(self):
-        company_data = DataPrep(self.company_name).reports
-        for report in company_data:
-            self.data.append(report.text)
-            self.classifications.append([report.one_day, report.three_day, report.five_day])
-
-
-
-    def train(self):
-        self.classifier = MultinomialNB.fit(self.data, self.classifications)
-
-    def predict(self, data):
-        self.classifier.predict(data)
-'''
 class NBCombined:
-    def __init__(self, price_no_change_margin=.01):
+    def __init__(self, file_location, price_no_change_margin=.01 ):
         self.data = []
         self.dates = []
         self.num_classifiers = 3
@@ -46,20 +21,19 @@ class NBCombined:
 
         self.predictions = []*self.num_classifiers
         self.actual = []*self.num_classifiers
-        self.sort_data()
+        self.sort_data(file_location)
 
-        self.k_fold_train(5)
+        self.k_fold_train(4)
 
-    def get_data(self, company_name):
-        company = DataPrep(company_name, self.price_no_change_margin)
+    def get_data(self, company_name, file_location):
+        company = DataPrep(company_name, file_location, self.price_no_change_margin)
         for report in company.reports:
             self.dates.append(report.date)
             self.data.append([report.text, report.one_day, report.three_day, report.five_day])
 
-
-    def sort_data(self):
+    def sort_data(self, file_location):
         for company in self.company_name:
-            self.get_data(company)
+            self.get_data(company, file_location)
 
         '''
         merge columns so we can sort them in sequential order
@@ -75,31 +49,11 @@ class NBCombined:
         self.example_classifiers[1] = temp.T[3]
         self.example_classifiers[2] = temp.T[4]
 
-
         self.num_examples = np.shape(temp)[0]
-
-    def train(self, staring_index, ending_index, classifier_index):
-
-        print(np.shape(train_data))
-        print(np.shape(train_classifier))
-
-        train_set = np.column_stack((train_data, train_classifier))
-
-        self.classifier[classifier_index] = NaiveBayesClassifier.train(train_set)
-
-    def predict(self, staring_index, ending_index, classifier_index):
-        print("h")
-
-        test_data = self.data[staring_index:ending_index]
-        test_classifier = self.example_classifiers[staring_index:ending_index]
-        test_set = np.column_stack((test_data,test_classifier))
-
-        self.classifier[classifier_index] = NaiveBayesClassifier.train(test_set)
-
 
     def k_fold_train(self, num_folds):
         #remainder = self.num_examples % num_folds
-        num_vals = int(self.num_examples / num_folds)
+        num_vals = int(self.num_examples*1.0 / num_folds)
         for i in range(self.num_classifiers):
             if i == 0:
                 days = 1
@@ -116,15 +70,13 @@ class NBCombined:
             X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
             for index in range(num_folds-1):
 
-                train_classifier = self.example_classifiers[i][i*num_vals:(i+1)*num_vals]
-                clf = MultinomialNB(alpha=.000001).fit(X_train_tfidf[i*num_vals:(i+1)*num_vals], train_classifier)
-                predicted = clf.predict(X_train_tfidf[(i+1)*num_vals: (i+2)*num_vals])
+                train_classifier = self.example_classifiers[index][index*num_vals:(index+1)*num_vals]
+                clf = MultinomialNB(alpha=.0001).fit(X_train_tfidf[index*num_vals:(index+1)*num_vals], train_classifier)
+                predicted = clf.predict(X_train_tfidf[(index+1)*num_vals: (index+2)*num_vals])
 
                 print("Accuracy", np.mean(predicted == train_classifier))
                 print(metrics.classification_report(train_classifier, predicted,
                 target_names=["Sell","Hold","Buy"]))
 
-                #self.train(i*num_vals, (i+1)*num_vals, i)
-#                self.predict((i+1)*num_vals, (i+2)*num_vals, i)
 
-test = NBCombined()
+test = NBCombined(file_location='2010')

@@ -3,19 +3,21 @@ import pandas as pd
 from Report import Report
 
 class DataPrep:
-    def __init__(self, company_name, price_no_change_margin=.01):
+    def __init__(self, company_name, file_location, price_no_change_margin=.01):
         self.reports = []
         self.company_name = company_name
+        self.file_location = file_location
         self.price_no_change_margin = price_no_change_margin
         self.data = pd.read_csv("ReducedPrices/"+self.company_name+".csv", header=0)
         self.get_report_dates()
+
 
     '''
     Store separated reports in individual Report objects
         that hold the date of the report and text and price changes
     '''
     def get_report_dates(self):
-        file = open("ReducedReports/"+self.company_name+".txt")
+        file = open(self.file_location+"ReducedReports/"+self.company_name+".txt")
         raw = file.read()
         file.close()
         raw = raw.strip()

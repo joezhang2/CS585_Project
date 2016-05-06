@@ -1,6 +1,6 @@
 
 class Report:
-    def __init__(self, date, text, simple=False, price_no_change_margin=.01, current_opening=0, first_day_close=0, three_day_close=0, five_day_close=0):
+    def __init__(self, date, text, price_no_change_margin=.01, current_opening=0, first_day_close=0, three_day_close=0, five_day_close=0):
         self.date = date
         self.text = text
         self.price_no_change_margin = price_no_change_margin
@@ -18,8 +18,7 @@ class Report:
         self.three_day_close = three_day_close
         self.five_day_close = five_day_close
 
-        if not simple:
-            self.calculate_classifiers()
+        self.calculate_classifiers()
 
     def calculate_classifiers(self):
         self.one_day = self.percent_change(self.first_day_close)
@@ -27,7 +26,7 @@ class Report:
         self.five_day = self.percent_change(self.five_day_close)
 
     '''
-
+    Helper method to calculate the class that the data goes into.
     '''
     def percent_change(self, x):
         percentage = (x-self.current_opening)/self.current_opening
