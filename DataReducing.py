@@ -12,17 +12,18 @@ class DataReducer:
         self.reports = None
         self.company_name = company_name
         self.starting_date = starting_date
+        self.last_stock_data = datetime.date(2013, 2, 1)
         self.reduce_reports()
         print(company_name, " report done")
-        self.reduce_prices()
-        print(company_name, "prices done")
+        #self.reduce_prices()
+        #print(company_name, "prices done")
 
     '''
     Split the reports in a file by date and save tokenize the text in a Report
         object that holds the date of the report and text
     '''
     def reduce_reports(self):
-        file = open("reports/"+self.company_name+".txt")
+        file = open("ReducedReports/"+self.company_name+".txt")
         raw = file.read()
         # remove html elements
         soup = BeautifulSoup(raw.translate(string.punctuation), "lxml")
@@ -42,7 +43,7 @@ class DataReducer:
             date = datetime.datetime.strptime(report[0], "%Y%m%d%H%M%S").date()
             # Skip over dates earlier than the starting time. This shrinks our training/testing size
             # and simplifies the model so things can run faster
-            if date < self.starting_date:
+            if date < self.starting_date or date > self.last_stock_data:
                 continue
             text = report[1].replace("*", " ")
             text = text.lower()
@@ -52,19 +53,18 @@ class DataReducer:
             FUTURE UPDATE: get word counts across all documents in the corpus to identify stop words
                 instead of using NLTK's stop word corpus.
             '''
-            words = [w for w in tokens if w.isalpha() and w not in nltk.corpus.stopwords.words('english')]
-            words = [PorterStemmer().stem(w) for w in words]   # stem words
-            cur_report = Report.Report(report[0][:8], " ".join(words))
+            words = [w for w in tokens if w.isalpha() ]
+            #and w not in nltk.corpus.stopwords.words('english')
+            #words = [PorterStemmer().stem(w) for w in words]   # stem words
+            cur_report = Report.Report(report[0][:8], " ".join(words), simple=True)
             self.reports.append(cur_report)
 
         cur_file = open('ReducedReports/'+self.company_name+'.txt', 'w')
         for report in self.reports:
             cur_file.write(report.date)
-            cur_file.write("\n")
+            cur_file.write(" REPORT ")
             cur_file.write(report.text)
-            cur_file.write("\n")
-            cur_file.write("End_of_report")
-            cur_file.write("\n")
+            cur_file.write(" End_of_report ")
         cur_file.close()
 
 
@@ -76,7 +76,7 @@ class DataReducer:
         data.to_csv("ReducedPrices/"+self.company_name+".csv", index=False)
 
 
-companies = ['AAPL', 'MSFT', 'GOOG', 'SNDK', 'IBM', 'ADBE', 'HPQ' ]
+companies = ['AAPL', 'MSFT', 'GOOG', 'SNDK', 'IBM', 'HPQ' ]
 
 for company in companies:
-    test = DataReducer(company, datetime.date(2010, 1, 1))
+    test = DataReducer(company, datetime.date(2008, 1, 1))

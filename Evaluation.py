@@ -1,3 +1,0 @@
-import Algorithms
-
-class Evaluate
